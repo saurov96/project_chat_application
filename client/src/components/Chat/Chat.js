@@ -64,7 +64,7 @@ const Chat = ({ location }) => {
           sendMessage={sendMessage}
         />
       </div>
-      <h3>Chating Application</h3>
+
       <TextContainer users={users} />
     </div>
   );
